@@ -8,3 +8,4 @@ required_packages:
       - python-virtualenv
       - cowsay
       - vim
+      - tmux
