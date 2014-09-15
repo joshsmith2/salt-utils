@@ -9,3 +9,4 @@ required_packages:
       - python-pip
       - cowsay
       - vim
+      - tmux
